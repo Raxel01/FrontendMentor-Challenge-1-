@@ -1,6 +1,3 @@
-# FrontendMentor-Challenge-1-
-    +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-  ***Here is My First Frontend mENTOR CHALLENGE I still beginner :()++++
-  +++              I'll try to solve max challenges                 ++++
-    +++Here is the Goal Designe images : <br>++++++++++++++++++++++++
+Here is My First Frontend Mentor challenge [MyFirst-start]
+             I'll try to solve max challenges                 
 <img src="./design/desktop-design.jpg"/>
